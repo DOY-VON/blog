@@ -1,5 +1,5 @@
 ---
-title: post
+title: 喜欢的数字媒体艺术家
 tags: [HTML,artist]
 index_img: https://i.loli.net/2020/05/06/IUfoZSabVOjcRh5.png
 banner_img: https://i.loli.net/2020/05/06/IUfoZSabVOjcRh5.png
